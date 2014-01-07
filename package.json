@@ -12,6 +12,9 @@
     "dbf"
   ],
   "author": "Matt Knight <matt@abstractvector.co.uk>",
+  "dependencies": {
+    "iconv": "*"
+  },
   "devDependencies": {
     "coffee-script": ">=1.3.3"
   },
